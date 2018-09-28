@@ -1,0 +1,3 @@
+rootProject.name = 'Format_number_string'
+
+include ':app'
